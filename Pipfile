@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+pandas = "*"
+scikit-learn = "*"
+beautifulsoup4 = "*"
+requests = "*"
+jupyterlab = "*"
+scipy = "*"
+matplotlib = "*"
+mecab-python3 = "*"
+lxml = "*"
+
+[requires]
+python_version = "3.7"
