@@ -16,6 +16,8 @@ scipy = "*"
 matplotlib = "*"
 mecab-python3 = "*"
 lxml = "*"
+gensim = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.7"
