@@ -19,6 +19,7 @@ lxml = "*"
 gensim = "*"
 pymysql = "*"
 jupyter-nbextensions-configurator = "*"
+mecab = "*"
 
 [requires]
 python_version = "3.7"
