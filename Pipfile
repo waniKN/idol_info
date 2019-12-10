@@ -18,6 +18,7 @@ mecab-python3 = "*"
 lxml = "*"
 gensim = "*"
 pymysql = "*"
+jupyter-nbextensions-configurator = "*"
 
 [requires]
 python_version = "3.7"
