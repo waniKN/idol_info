@@ -20,6 +20,8 @@ gensim = "*"
 pymysql = "*"
 jupyter-nbextensions-configurator = "*"
 mecab = "*"
+umap-learn = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
